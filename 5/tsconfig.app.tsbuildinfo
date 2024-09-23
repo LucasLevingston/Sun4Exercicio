@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/container.tsx","./src/components/footer.tsx","./src/components/header.tsx","./src/components/plancard.tsx","./src/pages/home.tsx","./src/assets/image.d.ts","./src/data/plandata.tsx","./src/schemas/contactschema.ts","./src/types/plantype.ts"],"version":"5.6.2"}
