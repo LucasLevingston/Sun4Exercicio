@@ -1,5 +1,6 @@
 export interface PlanType {
-  title: string;
-  price: string;
-  description: string;
+	id: number;
+	title: string;
+	price: string;
+	description: string;
 }
